@@ -38,7 +38,8 @@
     - Sostiene la democrazia come forma di governo.
     - Abbraccia il cosmopolitismo, affermando che la patria del saggio è il mondo intero.
 
-<p></p>
+<p>  
+</p>
 
 
 
@@ -86,7 +87,8 @@
     - La parola è potente di per sé, suscitando sentimenti indipendentemente dalla verità.
 
 
-<p></p>
+<p> 
+</p>
 
 
 **SOCRATE (469 - 399 a.C.)**
