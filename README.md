@@ -1,4 +1,4 @@
-**Fisici Pluralisti dell'Antica Grecia: Empedocle, Anassagora, Leucippo e Democrito**
+## **Fisici Pluralisti dell'Antica Grecia: Empedocle, Anassagora, Leucippo e Democrito**
 
 1. **Contesto Filosofico Iniziale:**
    - Prima di Parmenide, la filosofia utilizzava una sostanza unica per spiegare la natura del mondo.
@@ -38,12 +38,11 @@
     - Sostiene la democrazia come forma di governo.
     - Abbraccia il cosmopolitismo, affermando che la patria del saggio è il mondo intero.
 
-<p>  
-</p>
 
 
 
-**I Sofisti: Contesto della Democrazia Ateniese**
+
+## **I Sofisti: Contesto della Democrazia Ateniese**
 
 1. **Contesto Ateneo Democratico:**
    - Atena, nel V secolo a.C., basa le decisioni sulla maggioranza cittadina in assemblea.
@@ -87,11 +86,10 @@
     - La parola è potente di per sé, suscitando sentimenti indipendentemente dalla verità.
 
 
-<p> 
-</p>
 
 
-**SOCRATE (469 - 399 a.C.)**
+
+## **SOCRATE (469 - 399 a.C.)**
 
 1. **Contesto Biografico:**
    - Nato da padre scultore e madre levatrice, sposato con Santippe, con figli.
